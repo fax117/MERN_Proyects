@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+main{
+  min-height: 80vh;
+}
+
+he{
+  padding: 1 rem 0;
+}
+
+.rating span{
+  margin: 0.1 rem;
+}
